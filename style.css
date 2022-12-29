@@ -1,0 +1,87 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: #efefef
+}
+
+/* NAV BAR /HEADER */
+
+.header {
+    position: relative;
+    max-width: 1200px;
+    margin: auto;
+    height: 75px;
+    line-height: 75px;
+    
+}
+
+
+
+#logo {
+    position: absolute;
+    float:left;
+    /* margin:0; */
+    width: 35px;
+    height: 35px;
+    top: 30%;
+    margin-left: 40px;
+    
+  }
+
+#txt-1{
+    top: 5%;
+    height: 75px;
+    font-size: xx-large;
+    font-weight: 400;
+    /* color: aqua; */
+    position: absolute;
+    margin-left: 85px;
+}
+
+
+
+#navlist {
+      float: right;
+    }
+      
+li {
+      display: inline;
+      /* list-style-type :square; */
+      padding: auto; 
+      }
+
+        
+ul li a{
+            padding: 5px 20px;
+            color: black;
+         
+        }
+
+/* LEAD INNER SECTION DIV  */
+    
+#logo-2 img {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  width: 45px;
+  height: 45px;
+  transform: translate(-50%, -50%);
+   
+}
+    
+/*  */
+
+.healthcare{
+
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: xx-large;
+     transform: translate(-50%, -50%);
+
+}
