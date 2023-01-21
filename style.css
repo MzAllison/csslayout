@@ -63,3 +63,25 @@
 }
 
 /*  */
+
+.paragraph-container{
+    display: block;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    line-height: 1.5;
+    
+   
+}
+.paragraph-1{
+min-height: 1px;
+}
+
+.paragraph-2{
+    margin-top: 50px;
+}
+
+/*  */
